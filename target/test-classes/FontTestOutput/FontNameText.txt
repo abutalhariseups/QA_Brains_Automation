@@ -1,0 +1,20 @@
+Text: Home, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: Category, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: About Us, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: Hire QA, Font Size: 16px, Font Name: Oswald, sans-serif
+Text: Write, Font Size: 16px, Font Name: Oswald, sans-serif
+Text: Sign, Font Size: 16px, Font Name: Oswald, sans-serif
+Text: In, Font Size: 16px, Font Name: Oswald, sans-serif
+Text: YOUR INSTANT FIX FOR EVERYDAY DILEMMAS, Font Size: 24px, Font Name: Oswald, sans-serif
+Text: Your Quick Answers, Simplified Solutions, Font Size: 18px, Font Name: Questrial, sans-serif
+Text: QA Brains is the ideal space to exchange knowledge, seek advice, and engage in meaningful conversations that advance the Quality Assurance tester's skill., Font Size: 14px, Font Name: Questrial, sans-serif
+Text: For Support, Font Size: 14px, Font Name: Questrial, sans-serif
+Text: support@qabrains.com, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: Looking For QA?, Font Size: 22px, Font Name: Oswald, sans-serif
+Text: Find the perfect QA solution for your needs to ensure its functionality, performance, and security to ensure a smooth and reliable user experience., Font Size: 14px, Font Name: Questrial, sans-serif
+Text: HIRE, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: QA, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: © 2024 QA Brains | All Rights Reserved, Font Size: 16px, Font Name: Questrial, sans-serif
+Text: Designed & Developed by RISEUP LABS, Font Size: 13px, Font Name: Questrial, sans-serif
+Text: RISEUP LABS, Font Size: 13px, Font Name: IndustryIncBase
+Text: UP, Font Size: 13px, Font Name: IndustryIncBase

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="9" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-21T15:56:40 BDT" name="QA_Brains" finished-at="2024-04-21T16:03:15 BDT" duration-ms="395253">
+    <groups>
+    </groups>
+    <test started-at="2024-04-21T15:56:40 BDT" name="Test" finished-at="2024-04-21T16:03:15 BDT" duration-ms="395253">
+      <class name="qa.testcases.PageTextSizeAutomation">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.PageTextSizeAutomation@77847718]" started-at="2024-04-21T16:03:04 BDT" name="setup" finished-at="2024-04-21T16:03:11 BDT" duration-ms="6798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyWebpageTextSizeAndFontName()[pri:1, instance:qa.testcases.PageTextSizeAutomation@77847718]" started-at="2024-04-21T16:03:11 BDT" name="verifyWebpageTextSizeAndFontName" finished-at="2024-04-21T16:03:13 BDT" duration-ms="1624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWebpageTextSizeAndFontName -->
+        <test-method signature="verifyPageColor()[pri:3, instance:qa.testcases.PageTextSizeAutomation@77847718]" started-at="2024-04-21T16:03:13 BDT" name="verifyPageColor" finished-at="2024-04-21T16:03:15 BDT" duration-ms="2468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageColor -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.PageTextSizeAutomation@77847718]" started-at="2024-04-21T16:03:15 BDT" name="tearDown" finished-at="2024-04-21T16:03:15 BDT" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.PageTextSizeAutomation -->
+      <class name="qa.testcases.SignUpRegPageUrlTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.SignUpRegPageUrlTest@158d2680]" started-at="2024-04-21T16:01:37 BDT" name="setup" finished-at="2024-04-21T16:01:45 BDT" duration-ms="7542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TotalLinkTest()[pri:0, instance:qa.testcases.SignUpRegPageUrlTest@158d2680]" started-at="2024-04-21T16:01:45 BDT" name="TotalLinkTest" finished-at="2024-04-21T16:01:45 BDT" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TotalLinkTest -->
+        <test-method signature="AllUrlTest()[pri:1, instance:qa.testcases.SignUpRegPageUrlTest@158d2680]" started-at="2024-04-21T16:01:45 BDT" name="AllUrlTest" finished-at="2024-04-21T16:03:04 BDT" duration-ms="79066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllUrlTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.SignUpRegPageUrlTest@158d2680]" started-at="2024-04-21T16:03:04 BDT" name="tearDown" finished-at="2024-04-21T16:03:04 BDT" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.SignUpRegPageUrlTest -->
+      <class name="qa.testcases.SignupTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T15:56:40 BDT" name="setup" finished-at="2024-04-21T15:56:51 BDT" duration-ms="10426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringAccountWithoutFillingAnyDetails()[pri:1, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T15:56:51 BDT" name="verifyRegisteringAccountWithoutFillingAnyDetails" finished-at="2024-04-21T15:57:10 BDT" duration-ms="19757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountWithoutFillingAnyDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T15:57:10 BDT" name="tearDown" finished-at="2024-04-21T15:57:11 BDT" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T15:57:11 BDT" name="setup" finished-at="2024-04-21T15:57:20 BDT" duration-ms="8898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringAccountWithALlField()[pri:2, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T15:57:20 BDT" name="verifyRegisteringAccountWithALlField" finished-at="2024-04-21T15:57:58 BDT" duration-ms="38392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountWithALlField -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T15:57:58 BDT" name="tearDown" finished-at="2024-04-21T15:57:58 BDT" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T15:57:58 BDT" name="setup" finished-at="2024-04-21T15:58:09 BDT" duration-ms="10406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringAccountWithALlFieldForStudent()[pri:3, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T15:58:09 BDT" name="verifyRegisteringAccountWithALlFieldForStudent" finished-at="2024-04-21T15:58:51 BDT" duration-ms="42967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountWithALlFieldForStudent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T15:58:51 BDT" name="tearDown" finished-at="2024-04-21T15:58:52 BDT" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T15:58:52 BDT" name="setup" finished-at="2024-04-21T15:59:04 BDT" duration-ms="12311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringAccountWithALlFieldForEmploy()[pri:4, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T15:59:04 BDT" name="verifyRegisteringAccountWithALlFieldForEmploy" finished-at="2024-04-21T15:59:46 BDT" duration-ms="42119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountWithALlFieldForEmploy -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T15:59:46 BDT" name="tearDown" finished-at="2024-04-21T15:59:46 BDT" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T15:59:46 BDT" name="setup" finished-at="2024-04-21T15:59:57 BDT" duration-ms="10759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringAccountWithoutTryDifferentPassword()[pri:5, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T15:59:57 BDT" name="verifyRegisteringAccountWithoutTryDifferentPassword" finished-at="2024-04-21T16:00:42 BDT" duration-ms="45337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountWithoutTryDifferentPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T16:00:42 BDT" name="tearDown" finished-at="2024-04-21T16:00:43 BDT" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T16:00:43 BDT" name="setup" finished-at="2024-04-21T16:00:54 BDT" duration-ms="11024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringAccountWithoutTryDifferentPasswordFailCase()[pri:5, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T16:00:54 BDT" name="verifyRegisteringAccountWithoutTryDifferentPasswordFailCase" finished-at="2024-04-21T16:01:37 BDT" duration-ms="43017" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Email Warrning is not displayed expected [Password must match11] but found [Password must match]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Email Warrning is not displayed expected [Password must match11] but found [Password must match]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at qa.testcases.SignupTest.verifyRegisteringAccountWithoutTryDifferentPasswordFailCase(SignupTest.java:78)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringAccountWithoutTryDifferentPasswordFailCase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.testcases.SignupTest@4fb61f4a]" started-at="2024-04-21T16:01:37 BDT" name="tearDown" finished-at="2024-04-21T16:01:37 BDT" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qa.testcases.SignupTest -->
+    </test> <!-- Test -->
+  </suite> <!-- QA_Brains -->
+</testng-results>

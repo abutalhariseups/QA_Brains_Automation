@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="QA_Brains">
+	<listeners>
+		<listener class-name="qa.listeners.MyListeners" />
+	</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="qa.testcases.SignupTest"/>
+      <class name="qa.testcases.SignUpRegPageUrlTest"/>
+      <class name="qa.testcases.PageTextSizeAutomation"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
